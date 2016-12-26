@@ -1,1 +1,2 @@
 # anki-misc
+i smell
